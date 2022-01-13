@@ -4,3 +4,4 @@ bin
 
 TestResults/
 .coverage-report
+.sonarqube
