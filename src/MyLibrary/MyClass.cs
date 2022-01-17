@@ -11,10 +11,5 @@ namespace MyLibrary
         {
             return (number % 2) == 0;
         }
-
-        public bool IsItEven(int number)
-        {
-            return (number % 2) == 0;
-        }
     }
 }
